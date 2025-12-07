@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "حته و عيون شربت",
+    "author": "يوسف عزيزي بني طرف",
+    "cover": "assets/books/covers/book1.jpg",
+    "file": "assets/books/pdfs/book1.pdf"
+  },
+  {
+    "id": "2",
+    "title": "نسيم كارون",
+    "author": "يوسف عزيزي بني طرف",
+    "cover": "assets/books/covers/book2.jpg",
+    "file": "assets/books/pdfs/book2.pdf"
+  },
+  {
+    "id": "3",
+    "title": "القصص و الحكايات الشعبية لعرب خوزستان",
+    "author": "فيصل بني طي",
+    "cover": "assets/books/covers/book3.jpg",
+    "file": "assets/books/pdfs/book3.pdf"
+  },
+  {
+    "id": "4",
+    "title": "المسالة الثقافية في الوطن العربي",
+    "author": "محمىد عابد الجابري",
+    "cover": "assets/books/covers/book4.jpg",
+    "file": "assets/books/pdfs/book4.pdf"
+  },
+  {
+    "id": "5",
+    "title": "اهل الديرة ",
+    "author": "سيد عبد الإمام بني سعيد",
+    "cover": "assets/books/covers/book5.jpg",
+    "file": "assets/books/pdfs/book5.pdf"
+  },
+  {
+    "id": "6",
+    "title": "الديمقراطية و حقوق الإنسان",
+    "author": "الدكتور محمد عابد الجابري",
+    "cover": "assets/books/covers/book6.jpg",
+    "file": "assets/books/pdfs/book6.pdf"
+  },
+  {
+    "id": "7",
+    "title": "قبايل و عشاير عرب خوزستان",
+    "author": "يوسف عزيزي بني طرف",
+    "cover": "assets/books/covers/book7.jpg",
+    "file": "assets/books/pdfs/book7.pdf"
+  },
+  {
+    "id": "8",
+    "title": "نسيم كارون2",
+    "author": "يوسف عزيزي بني طرف",
+    "cover": "assets/books/covers/book8.jpg",
+    "file": "assets/books/pdfs/book8.pdf"
+  }
+]
