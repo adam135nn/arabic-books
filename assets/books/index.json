@@ -1,4 +1,11 @@
 [
+    {
+    "id": "1",
+    "title": "حته و عيون شربت",
+    "author": "يوسف عزيزي بني طرف",
+    "cover": "https://raw.githubusercontent.com/adam135nn/arabic-books/main/assets/books/covers/book1.jpg",
+    "file": "https://raw.githubusercontent.com/adam135nn/arabic-books/main/assets/books/pdfs/book1.pdf"
+  },
   {
     "id": "2",
     "title": "نسيم كارون",
@@ -49,4 +56,5 @@
     "file": "https://raw.githubusercontent.com/adam135nn/arabic-books/main/assets/books/pdfs/book8.pdf"
   }
 ]
+
 
